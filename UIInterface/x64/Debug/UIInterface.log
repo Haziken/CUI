@@ -1,0 +1,3 @@
+﻿  UIBase.cpp
+C:\Users\mayer\source\repos\CUI\UIInterface\UIBase.cpp(24,14): warning C4101: 'c': unreferenced local variable
+  UIInterface.vcxproj -> C:\Users\mayer\source\repos\CUI\x64\Debug\UIInterface.exe
